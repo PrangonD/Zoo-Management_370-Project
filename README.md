@@ -1,1 +1,1 @@
-# Zoo-Management_370-Project
+Basic Zoo management system that include Purchase system, Animal information, Admin and general system, Animal pictures etc. It made with Php, CSS and JavaScript.
